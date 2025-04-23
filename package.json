@@ -1,6 +1,6 @@
 {
-  "name": "coderzx",
-  "description": "编程自学",
+  "name": "coder-notes",
+  "description": "代码笔记",
   "version": "2.0.0",
   "license": "MIT",
   "type": "module",
