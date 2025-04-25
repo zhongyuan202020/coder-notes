@@ -5,6 +5,7 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
 
+  contributors: false,
   fullscreen: true,
   print: false,
   logo: "/logo.svg",
