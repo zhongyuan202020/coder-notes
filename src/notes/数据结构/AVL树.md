@@ -18,6 +18,8 @@ tag:
 ## 定义
 ![](https://raw.githubusercontent.com/zhongyuan202020/coder-notes-image/main/public/data-structrue/avl/avl.png)
 
+二叉搜索树（BST），在极端情况下，会退化为链表，导致查找效率下降。为了解决这个问题，出现了平衡二叉树。
+
 AVL树是一种自平衡二叉搜索树，它在二叉搜索树的基础上增加了平衡条件：任意节点的左右子树高度差不超过1。这个高度差被称为平衡因子。
 
 关键词：
