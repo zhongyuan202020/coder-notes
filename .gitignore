@@ -4,5 +4,5 @@ src/.vuepress/.cache/
 src/.vuepress/.temp/
 src/.vuepress/dist/
 # .idea .lingma 不再提交到仓库
-.idea
-.lingma
+.idea/
+.lingma/
