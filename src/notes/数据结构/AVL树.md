@@ -81,8 +81,6 @@ AVL树的旋转操作包括左旋和右旋。
 
 ## 功能实现
 以 Java 为例，实现AVL树的基本操作。
-
-### 初始化
 ```java
 public class AVLTree<E extends Comparable<E>> {
 
